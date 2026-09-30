@@ -6,6 +6,7 @@
 
 - `stories/episode-10.md` — 10화 완결 스토리와 컷 구성
 - `stories/episode-11-opening.md` — 11화 도입부
+- `images/episode-11/` — 11화 7개 스토리 컷과 1부 엔딩용 이미지 제작 패키지 및 SVG 장면 카드
 - `images/episode-10/` — 10화용 이미지 프롬프트와 10장의 SVG 씬 카드
 
 ## 제작 원칙
